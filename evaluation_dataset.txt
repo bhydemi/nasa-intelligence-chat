@@ -1,0 +1,82 @@
+# NASA Intelligence Chat System - Evaluation Dataset
+# Test questions spanning multiple categories for RAG system evaluation
+# Categories: Overview, Emergency, Disaster Analysis, Crew, Technical, Timeline
+
+# =====================================================
+# APOLLO 11 QUESTIONS
+# =====================================================
+
+# Overview
+What was the primary mission objective of Apollo 11?
+
+# Crew
+Who were the crew members of Apollo 11 and what were their roles?
+
+# Technical
+What were the names of the Apollo 11 spacecraft modules?
+
+# Timeline
+When did Apollo 11 land on the Moon and what were the landing coordinates?
+
+# Famous Moments
+What did Neil Armstrong say when he first stepped on the Moon?
+
+# Scientific
+What scientific experiments did the Apollo 11 astronauts deploy on the lunar surface?
+
+# =====================================================
+# APOLLO 13 QUESTIONS
+# =====================================================
+
+# Overview
+What was the Apollo 13 mission and why is it called a "successful failure"?
+
+# Emergency
+What problems did Apollo 13 encounter during its mission?
+
+# Technical
+What caused the oxygen tank explosion on Apollo 13?
+
+# Crew
+Who were the astronauts on Apollo 13 and what were their call signs?
+
+# Timeline
+What was the timeline of events during the Apollo 13 crisis?
+
+# Communication
+How did Mission Control communicate with the Apollo 13 crew during the emergency?
+
+# =====================================================
+# CHALLENGER QUESTIONS
+# =====================================================
+
+# Overview
+What was the Space Shuttle Challenger disaster?
+
+# Disaster Analysis
+What caused the Challenger disaster?
+
+# Technical
+What was the O-ring failure that led to the Challenger explosion?
+
+# Crew
+Who were the crew members who died in the Challenger disaster?
+
+# Timeline
+What was the sequence of events leading to the Challenger breakup?
+
+# Safety
+What safety recommendations came from the Challenger investigation?
+
+# =====================================================
+# CROSS-MISSION QUESTIONS
+# =====================================================
+
+# Comparative
+How did the response to Apollo 13's emergency differ from the Challenger disaster?
+
+# Technical Lessons
+What technical lessons were learned from the Apollo missions?
+
+# Historical Impact
+How did these NASA missions impact space exploration history?

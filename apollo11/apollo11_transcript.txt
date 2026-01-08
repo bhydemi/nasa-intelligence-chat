@@ -1,0 +1,124 @@
+NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
+
+APOLLO 11 TECHNICAL AIR-TO-GROUND VOICE TRANSCRIPTION
+
+Prepared by Test Division
+Apollo Spacecraft Program Office
+
+MANNED SPACECRAFT CENTER
+HOUSTON, TEXAS
+August 1969
+
+INTRODUCTION
+
+This is the transcription of the technical air-to-ground voice communications of the Apollo 11 mission. The transcript covers communications from launch through splashdown.
+
+CREW IDENTIFICATIONS:
+CDR - Neil A. Armstrong, Commander
+CMP - Michael Collins, Command Module Pilot
+LMP - Edwin E. Aldrin Jr., Lunar Module Pilot
+CC - Capsule Communicator (CapCom)
+
+=== LAUNCH SEQUENCE ===
+
+000:00:00 CC: Ten, nine, eight, seven, six, five, four, three, two, one, zero. All engines running. LIFTOFF! We have a liftoff, 32 minutes past the hour. Liftoff on Apollo 11.
+
+000:00:13 CDR: Roll program.
+000:00:14 CC: Roger. Roll.
+000:00:30 CDR: Roll complete and pitch is programmed.
+
+000:01:02 CC: Apollo 11, this is Houston. You are GO for staging.
+000:01:05 CDR: Roger. Go for staging.
+
+000:02:44 CDR: Staging. And ignition.
+000:02:47 CC: We confirm ignition, and you're looking good.
+
+000:09:08 CC: Apollo 11, you are GO for orbit.
+000:09:10 CDR: Roger, Houston. We're showing 103 by 103.
+
+=== TRANSLUNAR INJECTION ===
+
+002:44:16 CC: Apollo 11, this is Houston. You are GO for TLI.
+002:44:19 CDR: Roger. Apollo 11, GO for TLI.
+
+002:50:13 CDR: Ignition.
+002:55:42 CDR: Shutdown.
+002:55:45 CC: We confirm shutdown. You're on your way to the Moon.
+
+=== LUNAR ORBIT INSERTION ===
+
+075:49:50 CDR: Roger. Ignition.
+075:55:53 CDR: Shutdown.
+075:55:56 CC: Welcome to lunar orbit, gentlemen.
+
+=== DESCENT TO LUNAR SURFACE ===
+
+102:33:05 CC: Eagle, Houston. You're GO for powered descent.
+102:33:08 CDR: Roger. Understand. GO for powered descent.
+
+102:38:22 LMP: Program alarm.
+102:38:24 CDR: It's a 1202.
+102:38:32 CC: Roger. We got you. We're GO on that alarm.
+
+102:42:17 LMP: 35 degrees. 35 degrees. 750, coming down at 23. 700 feet, 21 down. 400 feet, down 9. Got the shadow out there. 250, down 2½. Picking up some dust. 4 forward. 4 forward. Drifting to the right a little.
+
+102:45:40 LMP: Contact light.
+102:45:43 CDR: Shutdown.
+102:45:44 LMP: Okay. Engine stop.
+
+102:45:57 CDR: Houston, Tranquility Base here. The Eagle has landed.
+102:46:06 CC: Roger, Tranquility. We copy you on the ground. You got a bunch of guys about to turn blue. We're breathing again. Thanks a lot.
+
+=== FIRST LUNAR STEPS ===
+
+109:24:15 CDR: I'm at the foot of the ladder. The LM footpads are only depressed in the surface about 1 or 2 inches. Although the surface appears to be very, very fine-grained as you get close to it, it's almost like a powder.
+
+109:24:48 CDR: I'm going to step off the LM now.
+
+109:24:48 CDR: That's one small step for man, one giant leap for mankind.
+
+109:25:08 CDR: Yes, the surface is fine and powdery. I can pick it up loosely with my toe. It does adhere in fine layers, like powdered charcoal, to the sole and sides of my boots.
+
+109:43:16 LMP: Beautiful view!
+109:43:18 CDR: Isn't that something? Magnificent sight out here.
+109:43:24 LMP: Magnificent desolation.
+
+=== FLAG DEPLOYMENT ===
+
+110:10:33 CDR: We're going to try to position the flag now.
+110:16:13 CC: Neil, this is Houston. The President of the United States is in his office now and would like to say a few words to you.
+110:16:19 CDR: That would be an honor.
+
+110:16:30 PRESIDENT NIXON: Neil and Buzz, I am talking to you by telephone from the Oval Room at the White House. And this certainly has to be the most historic telephone call ever made.
+
+=== LUNAR LIFTOFF ===
+
+124:22:00 CDR: Roger. 9, 8, 7, 6, 5, abort stage, engine arm ascent, proceed.
+124:22:01 LMP: Proceed. Beautiful!
+124:22:04 CC: Roger. Looking good here.
+124:22:07 CDR: We're off! Look at that stuff go all over the place!
+
+=== RENDEZVOUS ===
+
+128:03:00 CDR: We're station-keeping on the Columbia.
+128:03:04 CC: Roger. Standing by for hard dock.
+
+128:12:00 CDR: That was a funny one. You know, I didn't feel it strike, and then I thought things were pretty steady. I went boom with it, and that time it really caught it. It's captured.
+128:12:08 CC: We copy. It's been a mighty fine day.
+
+=== TRANS-EARTH INJECTION ===
+
+135:23:42 CC: Apollo 11, you're GO for TEI.
+135:23:45 CDR: Roger. GO for TEI.
+
+=== REENTRY ===
+
+194:49:17 CC: Apollo 11, you're looking very good at this distance.
+194:49:21 CDR: Thank you.
+
+195:12:06 CC: Apollo 11, this is Hornet. We have you in sight.
+195:18:35 CDR: Splashdown!
+
+195:18:42 CC: Apollo 11, Hornet. The swimmers are on the way. Congratulations on a great flight!
+
+END OF TRANSCRIPT

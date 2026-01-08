@@ -1,0 +1,117 @@
+NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
+
+APOLLO 11 MISSION REPORT
+
+MSC-00171
+
+MANNED SPACECRAFT CENTER
+HOUSTON, TEXAS
+November 1969
+
+MISSION OVERVIEW
+
+Apollo 11 was the spaceflight that first landed humans on the Moon. Commander Neil Armstrong and lunar module pilot Buzz Aldrin formed the American crew that landed the Apollo Lunar Module Eagle on July 20, 1969, at 20:17 UTC. Armstrong became the first person to step onto the lunar surface six hours and 39 minutes later on July 21 at 02:56 UTC; Aldrin joined him 19 minutes later. They spent about two and a quarter hours together outside the spacecraft, and they collected 47.5 pounds (21.5 kg) of lunar material to bring back to Earth. Command module pilot Michael Collins flew the Command Module Columbia alone in lunar orbit while they were on the Moon's surface.
+
+CREW
+
+Commander (CDR): Neil A. Armstrong
+Command Module Pilot (CMP): Michael Collins
+Lunar Module Pilot (LMP): Edwin E. "Buzz" Aldrin Jr.
+
+SPACECRAFT
+
+Command Module: Columbia (CM-107)
+Lunar Module: Eagle (LM-5)
+Launch Vehicle: Saturn V SA-506
+
+MISSION TIMELINE
+
+Launch: July 16, 1969, 13:32:00 UTC
+Kennedy Space Center Launch Complex 39A, Florida
+
+Lunar Orbit Insertion: July 19, 1969
+
+Lunar Landing: July 20, 1969, 20:17:40 UTC
+Sea of Tranquility (Mare Tranquillitatis)
+Landing coordinates: 0.67408°N 23.47297°E
+
+First Lunar Footstep: July 21, 1969, 02:56:15 UTC
+Neil Armstrong: "That's one small step for [a] man, one giant leap for mankind."
+
+EVA Duration: 2 hours, 31 minutes, 40 seconds
+
+Lunar Liftoff: July 21, 1969, 17:54:00 UTC
+
+Splashdown: July 24, 1969, 16:50:35 UTC
+Pacific Ocean, 13°19′N 169°9′W
+Recovery ship: USS Hornet (CVS-12)
+
+TECHNICAL TRANSCRIPT EXCERPTS
+
+02:56:15 CDR: I'm at the foot of the ladder. The LM footpads are only depressed in the surface about 1 or 2 inches, although the surface appears to be very, very fine grained, as you get close to it. It's almost like a powder. Down there it's very fine.
+
+02:56:20 CDR: I'm going to step off the LM now.
+
+02:56:15 CDR: That's one small step for man, one giant leap for mankind.
+
+02:56:25 CDR: Yes, the surface is fine and powdery. I can kick it up loosely with my toe. It does adhere in fine layers, like powdered charcoal, to the sole and sides of my boots. I only go in a small fraction of an inch, maybe an eighth of an inch, but I can see the footprints of my boots and the treads in the fine, sandy particles.
+
+03:15:16 LMP: Beautiful view!
+03:15:18 CDR: Isn't that something! Magnificent sight out here.
+03:15:24 LMP: Magnificent desolation.
+
+MISSION OBJECTIVES
+
+Primary objectives:
+1. Perform a manned lunar landing and return safely to Earth - ACHIEVED
+2. Conduct scientific exploration by the lunar module crew - ACHIEVED
+3. Deploy the television camera to transmit signals to Earth - ACHIEVED
+4. Deploy the passive seismometer and laser ranging retroreflector - ACHIEVED
+5. Collect lunar surface samples - ACHIEVED
+
+Secondary objectives:
+1. Obtain photographs of the translunar and transearth flight
+2. Obtain photographs of lunar terrain from orbit
+3. Conduct visual observations from orbit
+
+SCIENTIFIC EXPERIMENTS
+
+Early Apollo Scientific Experiments Package (EASEP):
+- Passive Seismic Experiment Package (PSEP)
+- Laser Ranging Retroreflector (LRRR)
+
+Lunar sample collection:
+- Total weight: 21.55 kg (47.51 lb)
+- Types: Basalt, breccia, regolith samples
+- Container: Two Sample Return Containers (SRCs)
+
+LUNAR SURFACE ACTIVITIES
+
+The astronauts deployed the U.S. flag during the EVA, though Armstrong found it difficult to push the flagpole into the hard lunar soil. They also received a congratulatory phone call from President Richard Nixon while on the lunar surface.
+
+The lunar module spent 21 hours 36 minutes on the lunar surface.
+
+Samples collected included:
+- Fine-grained regolith
+- Basaltic rock samples
+- Documented samples with photographs
+- Bulk samples
+- Core tube samples
+
+RETURN TO EARTH
+
+After a successful liftoff from the Moon, the lunar module rendezvoused with the command module. The crew transferred to Columbia and jettisoned Eagle. The spacecraft entered Earth's atmosphere at high velocity and splashed down in the Pacific Ocean.
+
+The crew was recovered by helicopter and brought aboard USS Hornet where they entered the Mobile Quarantine Facility for a 21-day quarantine period as a precaution against lunar pathogens.
+
+MISSION SUCCESS
+
+Apollo 11 achieved its primary mission: performing the first crewed lunar landing and returning safely to Earth. The mission demonstrated:
+- Lunar module descent and ascent capability
+- Lunar surface EVA operations
+- Lunar sample collection procedures
+- Earth return trajectory and reentry
+
+The success of Apollo 11 fulfilled President Kennedy's goal of landing a man on the Moon and returning him safely to Earth before the end of the decade.
+
+END OF REPORT

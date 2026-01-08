@@ -1,0 +1,146 @@
+NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
+
+SPACE SHUTTLE CHALLENGER DISASTER
+
+STS-51-L MISSION REPORT
+January 28, 1986
+
+INTRODUCTION
+
+The Space Shuttle Challenger disaster was a fatal incident in the United States space program that occurred on Tuesday, January 28, 1986, when the Space Shuttle Challenger (OV-099) broke apart 73 seconds into its flight, killing all seven crew members aboard. The spacecraft disintegrated over the Atlantic Ocean, off the coast of Cape Canaveral, Florida, at 11:39 EST (16:39 UTC).
+
+CREW
+
+Commander (CDR): Francis R. (Dick) Scobee
+Pilot (PLT): Michael J. Smith
+Mission Specialist 1 (MS1): Judith A. Resnik
+Mission Specialist 2 (MS2): Ellison S. Onizuka
+Mission Specialist 3 (MS3): Ronald E. McNair
+Payload Specialist 1 (PS1): Gregory B. Jarvis
+Payload Specialist 2 (PS2): S. Christa McAuliffe (Teacher in Space)
+
+MISSION OBJECTIVES
+
+STS-51-L was the 25th Space Shuttle mission. The primary payload was the Tracking Data Relay Satellite-B (TDRS-B). The mission also carried the Shuttle-Pointed Tool for Astronomy (SPARTAN-Halley), a free-flying module designed to observe Halley's Comet with two ultraviolet spectrometers and two cameras.
+
+Christa McAuliffe, a high school teacher from Concord, New Hampshire, was selected from more than 11,000 applicants to participate in the Teacher in Space Project. She was scheduled to be the first teacher in space.
+
+LAUNCH SEQUENCE
+
+Launch Date: January 28, 1986
+Launch Time: 11:38:00 EST
+Launch Site: Kennedy Space Center Launch Pad 39B
+
+T+0.000: Solid Rocket Booster ignition command
+T+0.678: First evidence of gray smoke near aft field joint on right SRB
+T+2.733: Eight puffs of increasingly blacker smoke between T+0.836 and T+2.500
+T+7.724: Last evidence of smoke above right aft SRB-External Tank attach strut
+T+58.788: First evidence of flame on right SRB in vicinity of aft field joint
+T+59.262: Flame established on right SRB
+T+64.660: Flame from right SRB suddenly increases
+T+65.000: Specific impulse suddenly drops, indicating massive burn-through
+T+72.284: Structural failure of External Tank begins
+T+73.124: Vehicle breakup begins
+T+73.191: Last data from orbiter
+T+73.213: Flash observed in orbiter area
+
+CAUSE OF DISASTER
+
+The Rogers Commission concluded that the disaster was caused by the failure of an O-ring seal in the right solid rocket booster (SRB). The O-ring, a rubber seal designed to prevent hot gases from leaking through the joint, failed due to:
+
+1. COLD TEMPERATURE: Launch occurred on an unusually cold morning, with temperatures around 36°F (2°C). The O-rings had been certified to operate only above 53°F (12°C). The cold caused the O-rings to become stiff and less flexible.
+
+2. O-RING DESIGN: The joint design was flawed. When pressurized, the joint could rotate slightly, causing the secondary O-ring to move away from the sealing surface at the very moment it was needed.
+
+3. SEAL EROSION: Hot combustion gases (approximately 5,800°F / 3,200°C) breached the primary O-ring seal, causing erosion. The secondary O-ring, hardened by cold, failed to seal the gap.
+
+4. STRUCTURAL FAILURE: The breach in the O-ring seal allowed hot gases and flame to reach the external tank, burning through the attach struts and causing structural failure of the tank, leading to vehicle breakup.
+
+VOICE TRANSCRIPT - FINAL MOMENTS
+
+T+0.000: Launch
+T+7.000: PLT: Feel that mother go!
+T+19.000: CDR: Roger, roll program.
+T+22.000: PLT: Go you mother!
+T+28.000: CDR: Roll complete, and we're pitching.
+T+40.000: PLT: Looks like we've got a lot of wind here today.
+T+41.000: CDR: Yeah.
+T+43.000: PLT: It's a little hard to see out my window here.
+T+51.000: CDR: Houston, we have throttle down.
+T+57.000: CC: Roger. Throttle down.
+T+60.000: CDR: Throttle up.
+T+65.000: CC: Roger. Go at throttle up.
+T+68.000: CDR: Roger. Go at throttle up.
+T+70.000: PLT: Uh oh...
+T+73.000: Loss of signal
+
+PRESIDENTIAL COMMISSION FINDINGS
+
+The Presidential Commission on the Space Shuttle Challenger Accident (the Rogers Commission), chaired by former Secretary of State William Rogers, determined:
+
+1. The cause of the Challenger accident was the failure of the pressure seal in the aft field joint of the right Solid Rocket Motor.
+
+2. The decision to launch on January 28, 1986, was flawed. Those who made the decision were unaware of the recent history of problems concerning the O-rings and the joint and were unaware of the initial written recommendation of the contractor advising against the launch at temperatures below 53°F.
+
+3. NASA's safety, reliability, and quality assurance programs had become ineffective.
+
+4. Communication failures at all levels led to the decision to launch despite warnings from engineers.
+
+KEY TECHNICAL FINDINGS
+
+O-RING TEMPERATURE SENSITIVITY:
+- O-ring resiliency decreases as temperature drops
+- At 75°F: O-ring seals in approximately 0.53 seconds
+- At 50°F: O-ring seals in approximately 2.40 seconds
+- At 30°F: O-ring seals in 10+ seconds (insufficient for joint rotation)
+
+JOINT ROTATION:
+- Upon ignition, internal pressure causes joint to rotate
+- This rotation temporarily increases the gap the O-ring must seal
+- Cold O-rings cannot respond quickly enough
+
+EROSION HISTORY:
+- Prior flights had shown O-ring erosion and blow-by
+- STS-51C (January 1985, 53°F) showed worst erosion prior to 51-L
+- Temperature correlation with damage was noted by Morton Thiokol engineers
+
+MORTON THIOKOL ENGINEERS' CONCERNS
+
+The night before launch, engineers at Morton Thiokol (the SRB contractor) expressed serious concerns about launching in cold weather:
+
+Roger Boisjoly (Engineer): "I fought like hell to stop that launch. I'm so torn up inside I can hardly talk about it even now."
+
+Allan McDonald (Director of the SRB Project): Refused to sign the launch recommendation and argued against launch.
+
+Bob Ebeling (Engineer): "When I saw the shuttle launch and explode, my heart broke. I felt I could have done more."
+
+RECOMMENDATIONS
+
+The Rogers Commission made nine recommendations:
+
+1. Redesign the SRB field joint and seal
+2. Review all Criticality 1 items
+3. Establish an independent Solid Rocket Motor design oversight committee
+4. NASA should establish an Office of Safety, Reliability, and Quality Assurance
+5. Improve communications procedures
+6. Improve launch decision process
+7. Establish a crew escape system
+8. Improve landing safety
+9. Extend flight rate to support safety
+
+AFTERMATH
+
+- Shuttle program suspended for 32 months
+- SRB joint redesigned with additional O-ring and heater
+- NASA management structure reformed
+- Safety review processes enhanced
+- Shuttle returned to flight September 29, 1988 (STS-26)
+
+MEMORIAL
+
+The Challenger Memorial at Arlington National Cemetery honors the seven crew members. The memorial was dedicated on May 20, 1986.
+
+"The future doesn't belong to the fainthearted; it belongs to the brave. The Challenger crew was pulling us into the future, and we'll continue to follow them."
+- President Ronald Reagan, January 28, 1986
+
+END OF REPORT
