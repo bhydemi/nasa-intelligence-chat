@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What was the primary mission objective of Apollo 11?",
+    "expected_answer": "The primary mission objective of Apollo 11 was to perform a crewed lunar landing and return safely to Earth.",
+    "category": "overview",
+    "mission": "apollo_11"
+  },
+  {
+    "question": "Who were the crew members of Apollo 11?",
+    "expected_answer": "The Apollo 11 crew consisted of Commander Neil Armstrong, Command Module Pilot Michael Collins, and Lunar Module Pilot Edwin 'Buzz' Aldrin Jr.",
+    "category": "crew",
+    "mission": "apollo_11"
+  },
+  {
+    "question": "What did Neil Armstrong say when he first stepped on the Moon?",
+    "expected_answer": "Neil Armstrong said 'That's one small step for man, one giant leap for mankind' when he first stepped on the Moon.",
+    "category": "timeline",
+    "mission": "apollo_11"
+  },
+  {
+    "question": "What problems did Apollo 13 encounter during its mission?",
+    "expected_answer": "Apollo 13 encountered a critical failure when an oxygen tank exploded in the Service Module, causing loss of electrical power and oxygen. The crew had to use the Lunar Module as a lifeboat to return safely to Earth.",
+    "category": "emergency",
+    "mission": "apollo_13"
+  },
+  {
+    "question": "Who were the astronauts on Apollo 13?",
+    "expected_answer": "The Apollo 13 crew consisted of Commander James Lovell, Command Module Pilot John Swigert, and Lunar Module Pilot Fred Haise.",
+    "category": "crew",
+    "mission": "apollo_13"
+  },
+  {
+    "question": "What caused the Challenger disaster?",
+    "expected_answer": "The Challenger disaster was caused by the failure of an O-ring seal in the right solid rocket booster. Cold temperatures on launch day caused the O-ring to become stiff and fail to seal properly, allowing hot gases to breach the joint and damage the external tank.",
+    "category": "disaster_analysis",
+    "mission": "challenger"
+  },
+  {
+    "question": "Who were the crew members who died in the Challenger disaster?",
+    "expected_answer": "The seven crew members who died were Commander Francis Scobee, Pilot Michael Smith, Mission Specialists Judith Resnik, Ellison Onizuka, and Ronald McNair, and Payload Specialists Gregory Jarvis and Christa McAuliffe.",
+    "category": "crew",
+    "mission": "challenger"
+  },
+  {
+    "question": "What was the O-ring failure that led to the Challenger explosion?",
+    "expected_answer": "The O-ring was a rubber seal designed to prevent hot gases from leaking through the solid rocket booster joints. On the cold morning of launch, the O-ring became stiff and failed to seal properly, allowing 5,800°F combustion gases to breach the joint and burn through to the external tank.",
+    "category": "technical",
+    "mission": "challenger"
+  },
+  {
+    "question": "When did Apollo 11 land on the Moon?",
+    "expected_answer": "Apollo 11 landed on the Moon on July 20, 1969, at 20:17:40 UTC in the Sea of Tranquility.",
+    "category": "timeline",
+    "mission": "apollo_11"
+  },
+  {
+    "question": "What safety recommendations came from the Challenger investigation?",
+    "expected_answer": "The Rogers Commission made recommendations including redesigning the SRB field joint and seal, establishing an independent oversight committee, creating an Office of Safety, Reliability and Quality Assurance at NASA, improving communications and launch decision processes, and establishing a crew escape system.",
+    "category": "technical",
+    "mission": "challenger"
+  }
+]

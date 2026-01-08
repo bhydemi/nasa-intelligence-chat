@@ -107,6 +107,24 @@ Use questions from `evaluation_dataset.txt` to test the system:
 - "What caused the Challenger disaster?"
 - "Who were the crew members on Apollo 11?"
 
+### Step 4: Run Batch Evaluation (Optional)
+
+Run automated batch evaluation with RAGAS metrics:
+
+```bash
+python run_batch_evaluation.py --openai-key YOUR_API_KEY --test-file test_questions.json
+```
+
+**Options:**
+- `--test-file`: Path to test questions (JSON or TXT format)
+- `--n-results`: Number of documents to retrieve (default: 3)
+- `--model`: LLM model (default: gpt-3.5-turbo)
+- `--output`: Output file for results (default: evaluation_results.json)
+
+This outputs:
+- Per-question scores (response_relevancy, faithfulness, bleu, rouge)
+- Aggregate metrics (mean, min, max) across all questions
+
 ## Components
 
 ### LLM Client (`llm_client.py`)
